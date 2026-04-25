@@ -29,6 +29,7 @@ Este projeto foi desenvolvido com o objetivo de simular um sistema real de contr
 
 ## 📦 Estrutura do projeto
 
+```
 src/
 └── main/
 └── java/
@@ -50,6 +51,7 @@ src/
 ├── TestaConexao.java
 └── TesteProdutoDAO.java
 
+```
 ---
 
 ## 📸 Demonstração
