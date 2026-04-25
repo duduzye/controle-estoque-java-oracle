@@ -1,10 +1,10 @@
-# 🧾 Sistema de Controle de Estoque em Java + Oracle
+# Sistema de Controle de Estoque em Java + Oracle
 
 Este projeto foi desenvolvido com o objetivo de simular um sistema real de controle de estoque, utilizando Java e integração com banco de dados Oracle.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Cadastro de produtos
 - Listagem de produtos
@@ -16,7 +16,7 @@ Este projeto foi desenvolvido com o objetivo de simular um sistema real de contr
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Java
 - JDBC (Java Database Connectivity)
@@ -27,7 +27,7 @@ Este projeto foi desenvolvido com o objetivo de simular um sistema real de contr
 
 ---
 
-## 📦 Estrutura do projeto
+## Estrutura do projeto
 
 ```
 src/
@@ -54,7 +54,7 @@ src/
 ```
 ---
 
-## 📸 Demonstração
+## Demonstração
 
 ### Menu do sistema
 
